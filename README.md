@@ -10,3 +10,5 @@ Download the zip or clone git
 Then run the python file. To choose an image change the code in line 13
 
 ```joker = cv2.imread('trollface_PNG6.png')```
+
+This program is still a bit messed up
